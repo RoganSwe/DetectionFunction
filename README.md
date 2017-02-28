@@ -1,2 +1,2 @@
 # DetectionFunction
-For analysis of measurement recirdings in matlab
+For analysis of measurement recordings in matlab
